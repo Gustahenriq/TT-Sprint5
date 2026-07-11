@@ -58,3 +58,4 @@ streamlit run app.py
 ## Aplicação online
 
 Após o deploy, o link da aplicação será disponibilizado aqui.
+
