@@ -1,4 +1,4 @@
-# 📷 Análise de Mercado de Câmeras
+# Análise de Mercado de Câmeras
 
 Este projeto foi desenvolvido como parte da Sprint 5 da TripleTen.
 
