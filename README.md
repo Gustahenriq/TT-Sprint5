@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte da Sprint 5 da TripleTen.
 
-O objetivo é construir uma aplicação web interativa utilizando Streamlit para explorar um conjunto de dados sobre câmeras digitais, permitindo visualizar informações por meio de gráficos e estatísticas descritivas.
+O objetivo é construir uma aplicação web interativa utilizando Streamlit para explorar um conjunto de dados sobre câmeras digitais, permitindo explorar informações por meio de gráficos interativos e estatísticas descritivas.
 
 > **Observação:** Nesta Sprint foi utilizado o dataset `camera_dataset.csv` em substituição ao dataset padrão (`vehicles_us.csv`), conforme permitido pelas instruções do projeto.
 
@@ -40,7 +40,7 @@ A aplicação permite:
 1. Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/Gustahenriq/TT-Sprint5.git
 ```
 
 2. Instale as dependências:
@@ -57,5 +57,7 @@ streamlit run app.py
 
 ## Aplicação online
 
-Após o deploy, o link da aplicação será disponibilizado aqui.
+Acesse a aplicação em:
+https://tt-sprint5-a9p3.onrender.com/
 
+> **Observação:** A aplicação está hospedada no plano gratuito do Render. Caso ela demore para abrir ou apresente um erro temporário (502/503), aguarde cerca de um minuto e atualize a página. Isso ocorre porque o serviço entra em modo de suspensão quando fica inativo.
